@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-customize-background-image-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131219424000000000" remote="131219424000000000" Dst="1" />
+<file name="class-wp-customize-background-image-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="130901472000000000" remote="130901472000000000" Dst="1" />
+<file name="class-wp-customize-background-position-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-code-editor-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131529600000000000" remote="131529600000000000" Dst="1" />
+<file name="class-wp-customize-color-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131488992000000000" remote="131488992000000000" Dst="1" />
+<file name="class-wp-customize-cropped-image-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-custom-css-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="131497632000000000" remote="131497632000000000" Dst="1" />
+<file name="class-wp-customize-date-time-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131544252000000000" remote="131544252000000000" Dst="1" />
+<file name="class-wp-customize-filter-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-header-image-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131527872000000000" remote="131527872000000000" Dst="1" />
+<file name="class-wp-customize-header-image-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="131250492000000000" remote="131250492000000000" Dst="1" />
+<file name="class-wp-customize-image-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131503680000000000" remote="131503680000000000" Dst="1" />
+<file name="class-wp-customize-media-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131535648000000000" remote="131535648000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-auto-add-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131515776000000000" remote="131515776000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131611644000000000" remote="131611644000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="131527008000000000" remote="131527008000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-location-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131527872000000000" remote="131527872000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-locations-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131521824000000000" remote="131521824000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-name-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131515776000000000" remote="131515776000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-section.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-setting.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-nav-menus-panel.php" server="maurinadavis.com/public_html/CabotCruise/" local="131515776000000000" remote="131515776000000000" Dst="1" />
+<file name="class-wp-customize-new-menu-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131864737800000000" remote="131864737800000000" Dst="1" />
+<file name="class-wp-customize-new-menu-section.php" server="maurinadavis.com/public_html/CabotCruise/" local="131864737800000000" remote="131864737800000000" Dst="1" />
+<file name="class-wp-customize-partial.php" server="maurinadavis.com/public_html/CabotCruise/" local="131494176000000000" remote="131494176000000000" Dst="1" />
+<file name="class-wp-customize-selective-refresh.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-sidebar-section.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-site-icon-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-customize-theme-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131698080000000000" remote="131698080000000000" Dst="1" />
+<file name="class-wp-customize-themes-panel.php" server="maurinadavis.com/public_html/CabotCruise/" local="131518368000000000" remote="131518368000000000" Dst="1" />
+<file name="class-wp-customize-themes-section.php" server="maurinadavis.com/public_html/CabotCruise/" local="131604732000000000" remote="131604732000000000" Dst="1" />
+<file name="class-wp-customize-upload-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="130901472000000000" remote="130901472000000000" Dst="1" />
+<file name="class-wp-widget-area-customize-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+<file name="class-wp-widget-form-customize-control.php" server="maurinadavis.com/public_html/CabotCruise/" local="131455296000000000" remote="131455296000000000" Dst="1" />
+</dwsync>
